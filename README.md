@@ -70,52 +70,7 @@ As a user I want to set reminders so that I don’t miss the tasks I plan to do.
 2. Ensure that the reminder shows the entered message.
 3. Ensure that the alarm is dismissed when the user does so.
 
-### 2. App Grouping
-
-As a user I want to have some apps set up automatically for me so that I can use them directly without the need to open them manually.
-
-#### Feature Tasks
-
-1. The user can select the apps he wants open.
-
-    * given [user can choose apps in schdualer time]
-
-    * when [can choose apps to complet the task]
-
-    * then [app open directly at schdualer time]
-    
-2. The user can set the time for the apps he selected.
-
-    * given [user can set timer when app will show]
-
-    * when [can choose when he want to see choosen app]
-
-    * then [the app open on specific time]
-
-3. The user can name the app group.
-
-    * given [user can compiend the app in one group and named the group]
-
-    * when [choose the group name]
-
-    * then [the user can see app group he choose before]
-
-4. The user can modify the details of the group.
-
-    * given [user can change group details befor due time]
-
-    * when [update on group details]
-
-    * then [the user can see app group he choose before]
-
-
-#### Acceptance Tests
-
-1. Ensure that all the selected apps in the group launch the specified time.
-2. Ensure that the user can see all the group details.
-3. Ensure that the apps do not launch if the user currently uses their device but instead it shows them a notification if he wants to proceed or not.
-
-### 3. Note Taking
+### 2. Note Taking
 
 As a user I want to add notes and view them.
 
@@ -177,7 +132,7 @@ As a user I want to add notes and view them.
 3. Ensure that searching by keywords returns the note that contains that keyword or part of it.
 4. Ensure the exporting notes yields working files.
 
-### 4. Topic Search
+### 3. Topic Search
 
 As a user I want to search for a topic and see a list of articles from a set of sites so that I can either read them directly , or save them for later in my notes, or set a reminder to read them later.
 
@@ -207,7 +162,7 @@ As a user I want to search for a topic and see a list of articles from a set of 
 2. Ensure that the index of the article opens the content of that article in the terminal.
 3. Ensure that the article is saved for later if the user chooses to read later.
 
-### 5. Entertainment
+### 4. Entertainment
 
 As a user  I want something simple to entertain me that does not interfere with my schedule.
 
