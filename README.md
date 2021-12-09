@@ -15,6 +15,8 @@ This program acts as a personal assistant, the user should be able to either add
 --- 
 ## [Software Requirements](https://github.com/Codepyrate/task-scheduler/blob/develop/software-requirements.md)
 ## [Trello Board](https://trello.com/b/eigIzOvr/task-scheduler)
+## wireframe
+![task-scheduler-wireframe](task-scheduler-wireframe.png)
 ## User Stories
 
 ### 1. Reminders
