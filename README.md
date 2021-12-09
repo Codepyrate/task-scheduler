@@ -13,8 +13,8 @@
 This program acts as a personal assistant, the user should be able to either add reminders or to select from a list of tasks that can also be scheduled. This programme helps people manage tasks and can operate directly on the system as user command
 
 --- 
-## [Domain_Modeling_link]
-
+## [Software Requirements]()
+## [Trello Board](https://trello.com/b/eigIzOvr/task-scheduler)
 ## User Stories
 
 ### 1. Reminders
