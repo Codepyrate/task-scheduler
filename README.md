@@ -199,3 +199,6 @@ As a user  I want something simple to entertain me that does not interfere with
 1. Ensure the program can expect the times when the use is not busy.
 2. Ensure the feature gets turned off when the user does so.
 3. Ensure the program will offer the user something entertaining or joyful.
+
+
+## [Database Schema Diagram](https://lucid.app/lucidchart/2356a870-4895-48fb-8a24-23508b699be4/edit?viewport_loc=194%2C64%2C1912%2C861%2C0_0&invitationId=inv_050e3c0c-0b12-417f-926a-8556c37f9835)
