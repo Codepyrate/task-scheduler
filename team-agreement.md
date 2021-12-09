@@ -45,7 +45,7 @@ To identify tasks and assign them as well, we planned not to let any of the team
 
 The project management tool of choice is Trello.
 
-[Trello board link](https://trello.com/b/4XqNxymq)
+[Trello Board](https://trello.com/b/eigIzOvr/task-scheduler)
 
 ## Git Process
 
