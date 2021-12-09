@@ -13,7 +13,7 @@
 This program acts as a personal assistant, the user should be able to either add reminders or to select from a list of tasks that can also be scheduled. This programme helps people manage tasks and can operate directly on the system as user command
 
 --- 
-## [Domain_Modeling_link](https://drive.google.com/file/d/1myV-2WrUYNV6yJfeshDiKAo6QfwcRDY3/view?usp=sharing)
+## [Domain_Modeling_link]
 
 ## User Stories
 
